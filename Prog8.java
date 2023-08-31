@@ -2,7 +2,7 @@
 //Name:-Aditya Sharma
 //Class- CSIT-1
 //Roll No.-12
-//1.Print an integer entered by the user.
+//8.Factorial
 import java.util.*;
 public class Prog8{
     public static void main(String[] args) {
