@@ -9,7 +9,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 //Name:-Aditya Sharma
 //Class- CSIT-1
 //Roll No.-12
- class Calci
+ class Calculator
 {   
     private int i;
     private int j;
@@ -26,9 +26,6 @@ Code, Compile, Run and Debug online from anywhere in world.
     public void mult(){
         System.out.println("The multiplication of number assessed is "+(i*j));
     }
-}
-    public class Calculator
-    {
         public static void main(String[] args){
             Calci c=new Calci(3,4);
             c.add();
