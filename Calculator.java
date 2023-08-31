@@ -13,7 +13,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 {   
     private int i;
     private int j;
-    Calci(int x,int y){
+    Calculator(int x,int y){
         i=x;
         j=y;
     }
@@ -27,7 +27,7 @@ Code, Compile, Run and Debug online from anywhere in world.
         System.out.println("The multiplication of number assessed is "+(i*j));
     }
         public static void main(String[] args){
-            Calci c=new Calci(3,4);
+            Calculator c=new Calculator(3,4);
             c.add();
             c.sub();
             c.mult();
