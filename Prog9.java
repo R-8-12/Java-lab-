@@ -3,7 +3,7 @@
 //Class- CSIT-1
 //Roll No.-12
 
-//#8 WAP to print the table of the number.
+//9.Multiplication Table
 
 import java.util.*;
 public class Prog9{
