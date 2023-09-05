@@ -3,6 +3,6 @@ public class WrapperExample1{
         int a=20;
         Integer i=Integer.valueOf(a);
         Integer j=a;
-        System.out.println(a+""+i+""+j);
+        System.out.println(a+" "+i+" "+j);
     }
 }
