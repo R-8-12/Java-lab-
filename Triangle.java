@@ -1,3 +1,4 @@
+//Q.25
 public class Triangle{ 
  int a,b,c;
   public double getArea(){
