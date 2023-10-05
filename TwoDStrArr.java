@@ -10,8 +10,8 @@ public class TwoDStrArr
 	    n=sc.nextInt(); 
 	    String s[][]=new String[m][n];
 	    System.out.print("Enter String:   ");
-	    for(int i=0;i<2;i++){
-	        for(int j=0;j<2;j++){
+	    for(int i=0;i<m;i++){
+	        for(int j=0;j<n;j++){
 	            s[i][j]=sc.next();
 	        }
 	        System.out.println();
@@ -22,7 +22,5 @@ public class TwoDStrArr
 	        }
 	        System.out.println();
 	    }
-	    
-	
 	}
 }
